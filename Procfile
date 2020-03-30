@@ -1,1 +1,1 @@
-web: bundle exec rackup -p $PORT
+background: bundle exec rackup -p $PORT
